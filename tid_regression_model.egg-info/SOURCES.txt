@@ -1,0 +1,17 @@
+pyproject.toml
+setup.py
+regression_model/VERSION
+regression_model/__init__.py
+regression_model/predict.py
+regression_model/train.py
+regression_model/config/__init__.py
+regression_model/config/core.py
+regression_model/dataset/__init__.py
+regression_model/processing/__init__.py
+regression_model/processing/data_manager.py
+regression_model/trained_models/__init__.py
+tid_regression_model.egg-info/PKG-INFO
+tid_regression_model.egg-info/SOURCES.txt
+tid_regression_model.egg-info/dependency_links.txt
+tid_regression_model.egg-info/requires.txt
+tid_regression_model.egg-info/top_level.txt
